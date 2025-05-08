@@ -1,0 +1,386 @@
+{
+    "hotel": {
+        "name": "Crown Plaza - Hotel Sea Palace Ltd",
+        "location": {
+            "city": "Cox's Bazar",
+            "address": "Kolatoli, Cox's Bazar, Bangladesh"
+        },
+        "contact": {
+            "phone": [
+                "01714652227",
+                "01714652228",
+                "01709934751"
+            ],
+            "email": "reservation@hotelseapalaceltd.com",
+            "head_office": {
+                "address": "Hamid Centre (3rd Floor), 42 Kazi Nazrul Islam Avenue, Kawran Bazar, Dhaka",
+                "phone": [
+                    "01714652227",
+                    "01714652228",
+                    "01709934751"
+                ]
+            }
+        },
+        "description": "Hotel Sea Palace Ltd in Cox's Bazar has been providing its state-of-the-art level of service to its guests since 2003. Located at Kolatoli Road, Cox's Bazar, our luxurious hotel is designed to provide comfort, elegance, and exceptional service, making it the perfect destination for both leisure and business travelers. The hotel offers various types of accommodations, ranging from standard rooms to luxury suites. Rooms are equipped with modern amenities like air conditioning, flat-screen TVs, minibars, and Wi-Fi.",
+        "room_categories": [
+            {
+                "name": "Crown Plaza",
+                "rooms": [
+                    {
+                        "name": "Premium Deluxe Twin",
+                        "type": "Deluxe Room",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/07/Premium-Deluxe-Twin.webp",
+                        "description": "Our Premium Deluxe Twin Room. Perfectly designed for both relaxation and productivity, this spacious room offers a blend of modern luxury Hspl and thoughtful amenities.",
+                        "rating": 4.5,
+                        "price_per_night_bdt": 14000,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Flat-screen TV",
+                            "High-speed Wi-Fi",
+                            "24-hour Room Service",
+                            "Electronic Safe",
+                            "Toiletries",
+                            "Sofa Seating Area"
+                        ]
+                    },
+                    {
+                        "name": "Premium Deluxe Couple",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/07/Premium-Deluxe-Couple.webp",
+                        "type": "Deluxe Room",
+                        "rating": 4.9,
+                        "description": "Our Premium Deluxe Couple Room, is designed for romance and relaxation. This elegantly appointed room offers a perfect blend of comfort and sophistication, making it ideal for couples.",
+                        "price_per_night_bdt": 12000,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Mini Bar",
+                            "High-speed Wi-Fi",
+                            "Complimentary Breakfast",
+                            "Tea/Coffee Maker",
+                            "Toiletries",
+                            "Balcony",
+                            "Ocean View"
+                        ]
+                    },
+                    {
+                        "name": "Super Deluxe Twin",
+                        "type": "Deluxe Room",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/07/Super-Deluxe-Twin.webp",
+                        "rating": 4.8,
+                        "description": "Our Super Deluxe Twin Room, designed to offer an exceptional stay for guests seeking both luxury and convenience. Perfect for families, friends, or business partners, this spacious room combines modern amenities",
+                        "price_per_night_bdt": 12000,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Flat-screen TV",
+                            "Mini Bar",
+                            "High-speed Wi-Fi",
+                            "Complimentary Breakfast",
+                            "Electronic Safe",
+                            "Toiletries",
+                            "Work Desk",
+                            "Sofa Seating Area",
+                            "Ocean View"
+                        ]
+                    },
+                    {
+                        "name": "Crown Deluxe Twin",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/07/Premium-Deluxe-Twin.webp",
+                        "type": "Crown Deluxe Twin",
+                        "description": "Elevate your stay with the elegance and luxury of our Crown Deluxe Twin Room. Designed for discerning travelers, this room offers a sophisticated blend of comfort, style, and modern amenities, ensuring an exceptional experience for both.",
+                        "price_per_night_bdt": 9800,
+                        "rating": 4.7,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Flat-screen TV",
+                            "High-speed Wi-Fi",
+                            "24-hour Room Service",
+                            "Complimentary Breakfast",
+                            "Electronic Safe",
+                            "Toiletries",
+                            "Sofa Seating Area",
+                            "Balcony",
+                            "Ocean View"
+                        ]
+                    },
+                    {
+                        "name": "Crown Deluxe Couple",
+                        "type": "Crown Deluxe Couple",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/06/Deluxe-Couple.webp",
+                        "description": "Immerse yourself in luxury and romance with our Crown Deluxe Couple Room, meticulously crafted to offer an exquisite retreat for two. This elegant room combines sophisticated design with high-end amenities, providing the perfect setting for a romantic getaway or special celebration.",
+                        "price_per_night_bdt": 9800,
+                        "rating": 4.4,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Flat-screen TV",
+                            "Mini Bar",
+                            "24-hour Room Service",
+                            "Tea/Coffee Maker",
+                            "Toiletries",
+                            "Work Desk",
+                            "Sofa Seating Area",
+                            "Ocean View"
+                        ]
+                    },
+                    {
+                        "name": "Executive Suite Couple",
+                        "type": "Executive Suite",
+                        "description": "Our Executive Suite Couple Room, featuring fresh, seaside-chic interiors and breathtaking beachfront views. This expansive suite is designed with comfort and sophistication in mind, offering an ideal retreat for couples and families alike.",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/07/Executive-Premium-Couple.webp",
+                        "price_per_night_bdt": 18000,
+                        "rating": 4.6,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Flat-screen TV",
+                            "Mini Bar",
+                            "High-speed Wi-Fi",
+                            "Electronic Safe",
+                            "Tea/Coffee Maker",
+                            "Toiletries",
+                            "Work Desk",
+                            "Balcony",
+                            "Ocean View"
+                        ]
+                    },
+                    {
+                        "name": "Crown Regular Suite Twin",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/07/Crown-Regular-Suite-Twin.webp",
+                        "type": "Regular Suite Twin",
+                        "description": "Experience refined comfort and elegance in our Crown Regular Suite Twin Room, designed to offer a luxurious and versatile stay. Ideal for both business and leisure travelers, this suite provides ample space, modern amenities, and a stylish ambiance, ensuring a memorable experience for all guests.",
+                        "price_per_night_bdt": 14500,
+                        "rating": 4.9,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Mini Bar",
+                            "High-speed Wi-Fi",
+                            "24-hour Room Service",
+                            "Complimentary Breakfast",
+                            "Tea/Coffee Maker",
+                            "Toiletries",
+                            "Sofa Seating Area",
+                            "Balcony",
+                            "Ocean View"
+                        ]
+                    },
+                    {
+                        "name": "Crown Regular Suite Couple",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/07/Crown-Regular-Suite-Couple.webp",
+                        "type": "Regular Suite Couple",
+                        "description": "Indulge in a luxurious retreat with our Crown Regular Suite Couple Room, meticulously designed for couples seeking an elegant and comfortable escape. Featuring sophisticated décor, modern amenities, and ample space, this suite provides the perfect setting for a romantic getaway or special occasion.",
+                        "price_per_night_bdt": 11000,
+                        "rating": 4.7,
+                        "amenities": [
+                            "Air Conditioning",
+                            "24-hour Room Service",
+                            "Complimentary Breakfast",
+                            "Electronic Safe",
+                            "Tea/Coffee Maker",
+                            "Toiletries",
+                            "Work Desk",
+                            "Sofa Seating Area",
+                            "Ocean View"
+                        ]
+                    },
+                    {
+                        "name": "Family Suite",
+                        "type": "Family Suite",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/07/Premium-Deluxe-Couple.webp",
+                        "description": "Designed with family comfort in mind, our Family Suite offers a spacious and inviting retreat perfect for creating lasting memories together. With thoughtfully designed spaces, modern amenities, and a family-friendly atmosphere, this suite provides everything needed for a relaxing and enjoyable stay.",
+                        "price_per_night_bdt": 30000,
+                        "rating": 4.4,
+                        "amenities": [
+                            "Flat-screen TV",
+                            "Mini Bar",
+                            "High-speed Wi-Fi",
+                            "24-hour Room Service",
+                            "Complimentary Breakfast",
+                            "Tea/Coffee Maker",
+                            "Toiletries",
+                            "Sofa Seating Area",
+                            "Balcony"
+                        ]
+                    },
+                    {
+                        "name": "Royal Suite Sea Side",
+                        "type": "Royal Sea Side",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/06/slider-2.webp",
+                        "description": "Experience unparalleled luxury and stunning coastal beauty in our Royal Suite Sea Side, the premier accommodation at Hotel Sea Palace Ltd. Overlooking the pristine shores of Cox’s Bazar, this extraordinary suite offers an exquisite blend of sophistication, spaciousness, and breathtaking ocean views, creating the perfect retreat for an unforgettable stay.",
+                        "price_per_night_bdt": 50000,
+                        "rating": 4.8,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Flat-screen TV",
+                            "High-speed Wi-Fi",
+                            "24-hour Room Service",
+                            "Complimentary Breakfast",
+                            "Electronic Safe",
+                            "Tea/Coffee Maker",
+                            "Work Desk",
+                            "Balcony"
+                        ]
+                    },
+                    {
+                        "name": "Royal Suite Hill Side",
+                        "type": "Royal Suite Hill Side",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/07/Premium-Deluxe-Twin.webp",
+                        "description": "Discover the epitome of elegance and tranquility in our Royal Suite Hill Side, a premier accommodation offering serene views and unmatched luxury. Nestled amidst the lush greenery and rolling hills of Cox's Bazar, this suite provides a sophisticated retreat with a perfect blend of comfort, style, and scenic beauty.",
+                        "price_per_night_bdt": 40000,
+                        "rating": 4.7,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Flat-screen TV",
+                            "Mini Bar",
+                            "24-hour Room Service",
+                            "Complimentary Breakfast",
+                            "Toiletries",
+                            "Work Desk",
+                            "Sofa Seating Area",
+                            "Balcony",
+                            "Ocean View"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Western Plaza",
+                "rooms": [
+                    {
+                        "name": "Regular Couple",
+                        "type": "Regular Room",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/08/Regular-Couple.webp",
+                        "description": "Experience a delightful blend of comfort and convenience in our Regular Couple Room at Hotel Sea Palace Ltd. Designed for couples seeking a cozy and intimate retreat, this room offers modern amenities and a welcoming atmosphere, making it an ideal choice for a relaxing stay in Cox's Bazar.",
+                        "price_per_night_bdt": 7000,
+                        "rating": 4.5,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Flat-screen TV",
+                            "Mini Bar",
+                            "High-speed Wi-Fi",
+                            "Complimentary Breakfast",
+                            "Electronic Safe",
+                            "Tea/Coffee Maker",
+                            "Toiletries",
+                            "Balcony"
+                        ]
+                    },
+                    {
+                        "name": "Regular Twin",
+                        "type": "Regular Room",
+                        "description": "Our Regular Twin Room at Hotel Sea Palace Ltd. Perfect for friends, family members, or business travelers, this room provides a cozy and functional space with modern amenities and a welcoming atmosphere, making it an excellent choice for a comfortable stay in Cox's Bazar.",
+                        "price_per_night_bdt": 7500,
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/08/Regular-Twin.webp",
+                        "rating": 4.6,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Flat-screen TV",
+                            "Mini Bar",
+                            "24-hour Room Service",
+                            "Electronic Safe",
+                            "Tea/Coffee Maker",
+                            "Toiletries",
+                            "Sofa Seating Area",
+                            "Balcony",
+                            "Ocean View"
+                        ]
+                    },
+                    {
+                        "name": "Family Twin",
+                        "type": "Family Room",
+                        "description": "Our Family Twin Room at Hotel Sea Palace Ltd offers the perfect blend of comfort, space, and practicality for families traveling to Cox's Bazar. With a thoughtfully designed layout, modern amenities, and ample space, this room ensures a comfortable and enjoyable stay for parents and children alike.",
+                        "price_per_night_bdt": 8000,
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/07/Super-Deluxe-Twin.webp",
+                        "rating": 4.7,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Mini Bar",
+                            "High-speed Wi-Fi",
+                            "Complimentary Breakfast",
+                            "Electronic Safe",
+                            "Toiletries",
+                            "Work Desk",
+                            "Sofa Seating Area",
+                            "Balcony",
+                            "Ocean View"
+                        ]
+                    },
+                    {
+                        "name": "Semi Suite",
+                        "type": "Suite",
+                        "image": "https://hotelseapalaceltd.com/wp-content/uploads/2024/06/slider-1.webp",
+                        "description": "Our Semi Suite at Hotel Sea Palace Ltd. Designed for those who appreciate a touch of luxury without the need for an extensive suite, this room offers a spacious and stylish retreat ideal for both leisure and business travelers.",
+                        "price_per_night_bdt": 8500,
+                        "rating": 4.8,
+                        "amenities": [
+                            "Air Conditioning",
+                            "Mini Bar",
+                            "High-speed Wi-Fi",
+                            "24-hour Room Service",
+                            "Electronic Safe",
+                            "Toiletries",
+                            "Work Desk",
+                            "Sofa Seating Area",
+                            "Balcony",
+                            "Ocean View"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "services": [
+            {
+                "name": "Room Breakfast",
+                "description": "Breakfast is often considered the most important meal of the day, and our hotels in Cox's Bazar understand this perfectly"
+            },
+            {
+                "name": "Parking",
+                "description": "Our hotels provide ample parking space to accommodate all guests. Whether you're driving your own vehicle or renting one locally, you can rest assured that there is plenty of room to park comfortably."
+            },
+            {
+                "name": "Free WiFi",
+                "description": "Hotels in Cox's Bazar understand the importance of seamless internet access and offer exceptional free WiFi services to ensure guests stay connected throughout their stay."
+            },
+            {
+                "name": "Swimming Pool",
+                "description": "Hotels in this beautiful town offer top-notch swimming pool services, providing guests with a perfect place to relax and enjoy their stay."
+            }
+        ],
+        "review": [
+            {
+                "name": "MD AHANAF HOSSAIN",
+                "datetime": "2025-04-10T14:20:00Z",
+                "note": "Room was clean and the view was fantastic. Breakfast was a nice touch.",
+                "rating": 4.8
+            },
+            {
+                "name": "NAHID ZAMAN",
+                "datetime": "2025-03-28T09:15:00Z",
+                "note": "Great service and friendly staff. Loved the private beach access.",
+                "rating": 4.7
+            },
+            {
+                "name": "SARA ISLAM",
+                "datetime": "2025-02-16T18:45:00Z",
+                "note": "Comfortable stay, pool was clean, and staff was helpful.",
+                "rating": 4.5
+            },
+            {
+                "name": "JAMIL AHMED",
+                "datetime": "2025-01-30T11:30:00Z",
+                "note": "The hospitality was top-notch. Would recommend to families.",
+                "rating": 4.6
+            },
+            {
+                "name": "TANIA RAHMAN",
+                "datetime": "2025-04-01T20:10:00Z",
+                "note": "Nice location and good amenities. Check-in was quick.",
+                "rating": 4.4
+            },
+            {
+                "name": "KABIR HOSSAIN",
+                "datetime": "2025-03-05T13:00:00Z",
+                "note": "Enjoyed the sea view. The room was tidy and spacious.",
+                "rating": 4.3
+            }
+        ],
+        
+        "website": "https://hotelseapalaceltd.com/"
+    }
+}
